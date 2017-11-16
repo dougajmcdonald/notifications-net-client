@@ -1,3 +1,9 @@
+## [1.5.4] - 2017-11-16
+## Changed
+
+* Pin dependencies for JWT and Newtonsoft.json
+    * Pinned to no higher than JWT 1.3.4 and Newtonsoft.json 9.
+
 ## [1.5.3] - 2017-11-15
 ## Changed
 
